@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0f1e,100:00e5ff&text=i'mYousef&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Web3%20%7C%20Network%20%7C%20Crypto&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0f1e,100:00e5ff&text=I'm+Yousef&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Web3%20%7C%20Network%20%7C%20Crypto&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Web3+Enthusiast;Learning+Blockchain+%26+Network+Security;Building+in+Public" />
 
@@ -25,8 +25,6 @@ I like understanding how things work under the hood, from packets moving across 
 |---|---|
 | **Focus** | Web3, Blockchain, Network Security |
 | **Learning** | Solidity, Smart Contracts, Cryptography |
-| **Location** | Your City, Country |
-| **Contact** | your@email.com |
 
 ### `$ ls ./stack`
 
@@ -44,7 +42,6 @@ I like understanding how things work under the hood, from packets moving across 
 
 ### `$ contact --me`
 
-[![Email](https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00e5ff)](-)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/yousef20250)
 
 <div align="center">
