@@ -44,7 +44,7 @@ I like understanding how things work under the hood, from packets moving across 
 
 ### `$ contact --me`
 
-[![Email](https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00e5ff)](-)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/yousef20250)
 
 <div align="center">
